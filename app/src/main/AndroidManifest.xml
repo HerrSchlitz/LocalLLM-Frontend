@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.meshnet.lln">
+
+    <application
+        android:allowBackup="true"
+        android:label="LlmFrontend"
+        android:supportsRtl="true"
+        tools:replace="android:allowBackup">
+
+        <meta-data
+            android:name="com.something.cogo-plugin.ID"
+            android:value="cogo-plugin" />
+
+    </application>
+
+</manifest>
